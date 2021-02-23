@@ -1,0 +1,7 @@
+WIFI RELATED 
+nmap :- is a open source WiFi related software. which used to find the no of user in current wifi router.
+sudo snap install nmap :- to install the software.
+snap info nmap :- to know full detail about the software
+# nmap -sP 192.168.0.0/24 :- if you run this command it will show the final result, the main command will show the list of user connected to the WiFi router
+snapss
+
